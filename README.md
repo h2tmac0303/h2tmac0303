@@ -51,9 +51,7 @@ Sou um desenvolvedor apaixonado por construir produtos digitais que resolvem pro
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h2tmac0303&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h2tmac0303&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h2tmac0303&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
 
 ---
