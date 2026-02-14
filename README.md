@@ -61,3 +61,7 @@ Sou um desenvolvedor apaixonado por construir produtos digitais que resolvem pro
 * 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
 * 📧 [E-mail](mailto:henriqueswaldemae1@gmail.com)
 * 🌍 Luanda, Angola
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/h2tmac0303/h2tmac0303/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
