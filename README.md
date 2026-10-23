@@ -1,6 +1,6 @@
 # Olá, eu sou o H2TMAC! 👋
 
-### Desenvolvedor Fullstack | 
+### Desenvolvedor Fullstack 
 
 Sou um desenvolvedor apaixonado por construir produtos digitais que resolvem problemas reais. Atualmente, foco em arquiteturas modernas com **Next.js**, **React** e **Node.js**, sempre priorizando performance e experiência do usuário (UX).
 
